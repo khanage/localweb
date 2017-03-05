@@ -4,7 +4,7 @@
 
 A simple haskell implementation of static file server. I was sick of not having anything to hand, and it turns out that all the heavy lifting has already been done.
 
-This basically wraps [wai-app-static](http://google.com) with some options parsed by [optparse-applicative](http://google.com).
+This basically wraps [wai-app-static](https://www.stackage.org/package/wai-app-static) with some options parsed by [optparse-applicative](https://www.stackage.org/package/optparse-applicative).
 
 ## Usage
 
